@@ -10,6 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
+I am a JavaScript/HTML developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 ---
