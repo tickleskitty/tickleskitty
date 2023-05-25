@@ -11,3 +11,4 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tickleskitty&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
