@@ -10,8 +10,11 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a JavaScript/HTML developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a JavaScript/HTML developer.
 
+- :seedling: Learning HTML slowly.
+
+- :zap: I like to code different things and I'm right now coding a website.
 
 ---
 
