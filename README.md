@@ -30,3 +30,6 @@ I am a JavaScript/HTML developer.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tickleskitty&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tickleskitty&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
